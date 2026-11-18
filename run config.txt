@@ -1,0 +1,1 @@
+--enable-native-access=javafx.graphics --add-modules=javafx.controls,javafx.fxml
